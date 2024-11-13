@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Ignore compiled JavaScript files 
+*.js
+
+# Log files 
+*.log
+
+# IDE/editor-specific settings 
+.vscode/         # VS Code
